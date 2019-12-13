@@ -1,1 +1,14 @@
-##### guest talk #4:
+This is the folder with all links, references, audios etc for the lecture below.  
+Go to our [overview page](https://github.com/media-and-power/lectures-resources) to see all lectures and collected files/links.
+
+##### 11.12.19 - guest talk #4:
+### Áine Kelly-Costello and Isabelle Ulfsdotter: Authentic disability reporting and inclusion in journalism
+--> [facebook event](https://www.facebook.com/events/2762027877165052/)
+
+From the event description: _Two blind journalism students at GU, one from Sweden and one from New Zealand, will share their insights into disability representation within Swedish and English-speaking news reporting and offer suggestions for covering disability angles proactively, authentically and constructively. They will also discuss their experiences regarding accessibility when working as journalists._
+
+##### find the audio:
+--> on [soundcloud](https://soundcloud.com/user-725948934/authentic-disability-reporting-and-inclusion-in-journalism-perspectives-from-two-blind-students)  
+--> here, in our [github repository]()
+##### find the presentation slides:
+--> here, in our [github repository]()
