@@ -21,7 +21,7 @@ _3) neoliberalism in crisis and the securitization of the Other as a cultural he
 
 _Adrián Groglopo is a lecturer at the department of social work at the University of Gothenburg. He is a project leader of DENOR (research network decolonial critique, knowledge production and social change in the Nordic countries), which provides a decolonial perspective on knowledge and education in the Nordic countries. As an articulation between racism, capitalism and patriarchy generated through the processes of domination that became globalized in the wake of colonialism, coloniality (as the legacy of colonial knowledge and relationships, as well as global politics, geopolitics and world-colonial/modern system) continues to produce structures of inequality that render people as non-existent. DENOR addresses coloniality’s social, political, epistemic and ontological production of absences, and their connection to contemporary problems connected to knowledge and education in the Nordic countries, as well as examine how these may reproduce or be complicit with the problems of racism and social exclusion we are facing._
 
-##### 13.11.19 - guest talk #3:
+##### 3.12.19 - guest talk #3:
 ### Patricia Lorenzoni: When is life grievable? Media representation in the age of migration and increased border control
 --> [facebook event](https://www.facebook.com/events/2538111769767501/)
 
@@ -29,7 +29,7 @@ From the event description: _Part of the title of my talk is borrowed from Judit
 
 _Patricia Lorenzoni holds a Ph.D. in History of Ideas and is currently a research fellow at the Centre for Multidisciplinary Studies on Racism, Uppsala University. Her research focus on representation and reception of violence in relation to coloniality and racialization. She is also active as an essayist and translator._
 
-##### 13.11.19 - guest talk #4:
+##### 11.12.19 - guest talk #4:
 ### Áine Kelly-Costello and Isabelle Ulfsdotter: Authentic disability reporting and inclusion in journalism
 --> [facebook event](https://www.facebook.com/events/2762027877165052/)
 
