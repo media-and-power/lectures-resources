@@ -9,6 +9,7 @@ From the event description: _Two blind journalism students at GU, one from Swede
 
 ##### find the audio:
 --> on [soundcloud](https://soundcloud.com/user-725948934/authentic-disability-reporting-and-inclusion-in-journalism-perspectives-from-two-blind-students)  
---> here, in our [github repository]()
+--> or click [here](https://github.com/media-and-power/lectures-resources/raw/master/talk%234/audio_disability%20reporting%20and%20inclusion%20in%20journalism_191211.mp3) to download it
 ##### find the presentation slides:
---> here, in our [github repository]()
+--> [here](https://github.com/media-and-power/lectures-resources/blob/master/talk%234/Disability_journalism_slides_191211.pdf)  
+--> or click [here](https://github.com/media-and-power/lectures-resources/raw/master/talk%234/Disability_journalism_slides_191211.pdf) to download them
